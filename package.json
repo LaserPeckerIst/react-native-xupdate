@@ -1,5 +1,5 @@
 {
-  "name": "react-native-xupdate-new",
+  "name": "@laserpecker/react-native-xupdate-new",
   "description": "A React-Native plugin for XUpdate(Android Version Update Library).",
   "version": "1.0.2",
   "main": "index.js",
@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-xupdate.git"
+    "url": "https://github.com/LaserPeckerIst/react-native-xupdate"
   },
   "author": "xuexiangjys <xuexiangjys@163.com> (http://xuexiangjys.club)",
-  "homepage": "https://github.com/react-native-xupdate",
+  "homepage": "https://github.com/LaserPeckerIst/react-native-xupdate",
   "bugs": {
-    "url": "https://github.com/xuexiangjys/react-native-xupdate/issues"
+    "url": "https://github.com/LaserPeckerIst/react-native-xupdate/issues"
   },
   "license": "Apache-2.0",
   "devDependencies": {
